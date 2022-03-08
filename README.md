@@ -1,36 +1,22 @@
-<!--
-**MelodyGhost/MelodyGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi 👋, I'm MG Rahim</h1>
-<h3 align="center">Software Developer, proficient in JavaScript and Python, In love with React Typescript</h3>
+<h3 align="center">Full stack Developer | React | Typescript | Nodejs</h3>
 
 <p align="left"> <a href="https://twitter.com/mgrahimm" target="blank"><img src="https://img.shields.io/twitter/follow/mgrahimm?logo=twitter&style=for-the-badge" alt="mgrahimm" /></a> </p>
 
-- 🔭 I’m currently working on **Transforming my AI project to React**
+- 🔭 I’m currently working on **bringing some of my project idea to life**
 
-- 🌱 I’m currently learning **Linux System and Advance Web programming**
+- 🌱 I’m currently learning **Linux System and microservice system design**
 
-- 👨‍💻 All of my projects are available at [mgrahim.com](mgrahim.com)
+<!-- - 👨‍💻 All of my projects are available at [mgrahim.com](mgrahim.com) -->
 
-- 💬 Ask me about **HTML, CSS, JS, React, Python**
+- 💬 Ask me about **HTML, CSS, JS, React, Python, etc**
 
-- 📫 How to reach me **mgrahim.dev@gmail.com**
+- 📫 Reach me @ **mgrahim.dev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mg-rahim/](https://www.linkedin.com/in/mg-rahim/)
 
-- ⚡ Fun fact **I often feel depressed thinking how little time we have compared how many things there's to learn.**
+- ⚡ Fun fact **I often feel bad thinking about the fact that how little time we have compared to how many things there's to learn.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
