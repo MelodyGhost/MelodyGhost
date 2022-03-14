@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/mgrahimm" target="blank"><img src="https://img.shields.io/twitter/follow/mgrahimm?logo=twitter&style=for-the-badge" alt="mgrahimm" /></a> </p>
 
-- 🔭 I’m currently working on **bringing some of my project idea to life**
+- 🔭 I’m currently **bringing some of my project idea to life**
 
-- 🌱 I’m currently learning **Linux System and microservice system design**
+- 🌱 I’m currently learning **Linux System, system design etcetera**
 
 <!-- - 👨‍💻 All of my projects are available at [mgrahim.com](mgrahim.com) -->
 
-- 💬 Ask me about **HTML, CSS, JS, React, Python, etc**
+- 💬 Ask me about **HTML, CSS, JS, React, Python**
 
 - 📫 Reach me @ **mgrahim.dev@gmail.com**
 
